@@ -1,0 +1,17 @@
+#titleSearchQuery {
+  margin-bottom: 25px;
+}
+.search-result-item {
+  padding: 10px 0px 10px 0px;
+  margin: 0;
+  font-weight: 700;
+  border-bottom: 1px solid #f1f1f1;
+  cursor: pointer;
+}
+
+.search-result-item:hover {
+  color: #337ab7;
+}
+.title-heading {
+  margin-bottom: 25px;
+}
