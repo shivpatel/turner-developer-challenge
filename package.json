@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "start": "node app.js",
+    "postinstall": "bower install",
     "test": "karma start karma.conf.js"
   },
   "dependencies": {
