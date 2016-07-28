@@ -22,4 +22,4 @@ Note: Assumes you have previously executed `npm install` in the project root dir
 1. Install Protractor and Selenium Server using the following commands: `npm install -g protractor` and `webdriver-manager update`
 2. Run a Selenium Server instance using `webdriver-manager start`
 3. Open a new terminal window and run the project using `npm start`
-4. Open a final terminal window and run `protractor protractorConf.js`. You must be in the tests-protractors folder.
+4. Open a final terminal window and run `protractor protractorConf.js`. You must be in the tests-protractor folder.
